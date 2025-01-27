@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 
 ## How to Reach Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/vyechuri/)
+- LinkedIn: [Rao Yechuri](https://www.linkedin.com/in/vyechuri/)
 
 
 Thanks for visiting! Feel free to explore my repositories and connect with me. 
